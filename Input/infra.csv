@@ -1,0 +1,7 @@
+Type,Key,Name,Location,ResourceGroupName,AccountTier,AccountReplicationType
+RG,rg1,rg001,westus,,,
+RG,rg2,rg002,westus,,,
+RG,rg3,rg003,westus,,,
+
+STG,stg1,pipstg001,westus,rg001,Standard,LRS
+STG,stg2,pipstg002,westus,rg002,Standard,LRS
